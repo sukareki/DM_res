@@ -4,8 +4,8 @@ function setU(){
 }
 
 function setM(){
-    var domain = "http://t.test88.top/";
-	maps = [domain + '1-min.jpg', domain + '2-min.jpg', domain + '3-min.jpg',domain + '4-min.jpg',domain + '5-min.jpg',domain + '6-min.jpg'];	
+    var domain = "https://cdn.jsdelivr.net/gh/sukareki/DM_res/maps/";
+	maps = [domain + '1.jpg', domain + '2.jpg', domain + '3.jpg',domain + '4.jpg',domain + '5.jpg',domain + '6.jpg'];		
 }
 
 function getU(cc){	
